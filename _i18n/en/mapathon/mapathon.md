@@ -27,15 +27,18 @@ You don't have to wait until disaster hits to begin preparations for your instit
 
 - **Communications**: Talk to your communications team to see what kinds of rapid-response capacity they have. Make sure the university's top communication team is also ready to help you fill the room(s). Identify what networks are available to you or your team directly on social media or email, and keep a list. Prepare a template for a mapathon poster and have that ready. We recommend you design for respect for the gravity of the situation without sacrificing attention-grabbing.
 
-- **Skills**: Many academic institutions and labs have one or several GIS specialists on staff. Identify who they are and make sure to talk to them to gage their own readiness to teach beginners how to use the tool. If a GIS specialist is not on hand, identify technologists who are willing to research and learn how to use the tool.
+- **Skills**: Many academic institutions and labs have one or several GIS
+specialists on staff. Identify who they are and make sure to talk to them to
+gauge their own readiness to teach beginners how to use the tool. If a GIS specialist is not on hand, identify technologists who are willing to research and learn how to use the tool.
 
 
 ## After the Disaster, Before the Mapathon
 
-If everything is in place the following steps can be deployed in 6-7 days.
+If everything is in place the following steps can be deployed in 6–7 days.
 
 1. Gather your team, including those capable of teaching the tool, and decide you are going to help.
-2. Do research on HOT-OSM (or relevant platform) to see if projects are starting to be requested by responders on the ground. If at first they don't come up, they might in a matter of hours or a few days depending on the situation.
+2. Do research on [HOT-OSM](http://hotosm.org)—the Humanities OpenStreetMap
+   Team—(or relevant platform) to see if projects are starting to be requested by responders on the ground. If at first they don't come up, they might in a matter of hours or a few days depending on the situation.
 3. Start making calls to your networks and research the situation on the ground as much as you can to help you make informed decisions.
 4. Secure your first room.
 5. Make the poster.
@@ -52,9 +55,9 @@ If everything is in place the following steps can be deployed in 6-7 days.
 
 0. Write on a whiteboard useful information like links, social media and HOT-OSM hashtags, names of the helpers, etc.
 1. Feel free to play some low-volume music to make the space more welcoming.
-2. Spend the first 30-40 minutes training the whole group. Make sure to take time to let visitors from outside your institution know about the facilities, coffee, bathrooms, etc.
+2. Spend the first 30–40 minutes training the whole group. Make sure to take time to let visitors from outside your institution know about the facilities, coffee, bathrooms, etc.
 3. Use name tags or lanyards to identify the "helpers." One of the helpers should be wholly in charge of logistics and making sure that participants are comfortable and can find bathrooms.
-4. Organize the room around small clusters of 3-4 volunteers if possible. Volunteers can help each other for most things. Let the volunteers know that they can discuss with each other.
+4. Organize the room around small clusters of 3–4 volunteers if possible. Volunteers can help each other for most things. Let the volunteers know that they can discuss with each other.
 5. Get to work & walk around the room helping out people who get stuck or have questions. If you want to channel the help in more efficient ways you can use color coded stickies that volunteers place in their laptops or working surface to let you know what type of help they need.
 6. If you are connecting with other groups around the nation or world, make sure to take breaks to connect, say hi, show collective results, etc.
 7. After the end of the hour encourage others to stay in touch with each other, show the results of your effort by displaying the stats graph for your project, and make sure to send everyone with a round of applause for each other.
@@ -62,7 +65,7 @@ If everything is in place the following steps can be deployed in 6-7 days.
 ## After the event
 
 3. Celebrate with your team. You've done good in the world.
-1. Send an email thanking everyone that participated.
+1. Send an email thanking everyone who participated.
 2. Prepare a simple report detailing what worked and what could be done better to help upper administrators refine the local framework.
 4. Follow up with the communications team about post-event narratives.
 5. Make sure to follow up with the relief organizations in the disaster area if you can to make sure your efforts were well received. Share the news through your different communication channels.
@@ -70,7 +73,7 @@ If everything is in place the following steps can be deployed in 6-7 days.
 ## Resources
 
 - [Our Shared Google Drive](https://drive.google.com/drive/folders/0B2gLcm5jfVhSZWlpV0JBTVRUdUE?usp=sharing)    
-In our shared folder we compilate Handouts, Sample Posters, etc. If you would like to add your own materials visit our contribute page.
+In our shared folder, we compile Handouts, Sample Posters, etc. If you would like to add your own materials visit our contribute page.
 - [learnOSM](http://learnosm.org/en/)   
 This is a great resource for learning about Open Street Maps in general.
 - [Hosting a Mapathon](http://www.missingmaps.org/host/)   
